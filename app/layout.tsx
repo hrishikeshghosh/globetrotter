@@ -3,6 +3,7 @@ import { Bangers } from 'next/font/google'
 import "./globals.css";
 import { DialogProvider } from "@/contexts/dialogProvider";
 import { UserProvider } from "@/contexts/userProvider";
+import { ToastContainer } from 'react-toastify'
 
 const Bangers_font = Bangers({
   weight: "400",
@@ -50,6 +51,7 @@ export default function RootLayout({
           <body
             className={`${Bangers_font.className} antialiased`}
           >
+            <ToastContainer />
             {children}
           </body>
         </DialogProvider>
