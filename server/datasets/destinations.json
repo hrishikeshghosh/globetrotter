@@ -1,0 +1,66 @@
+[
+    {
+        "city": "London",
+        "country": "United Kingdom",
+        "clues": [
+            "This city is home to a clock tower often mistaken as 'Big Ben', which is actually the name of the bell inside.",
+            "Famous for its red double-decker buses and black cabs."
+        ],
+        "fun_fact": [
+            "London has over 170 museums, including the British Museum, which houses the Rosetta Stone.",
+            "There are more than 8 million trees in London, making it one of the greenest cities in the world."
+        ],
+        "trivia": [
+            "London’s Underground, also called the Tube, is the oldest metro system in the world, opened in 1863.",
+            "Buckingham Palace has its own police station."
+        ]
+    },
+    {
+        "city": "Sydney",
+        "country": "Australia",
+        "clues": [
+            "This city is famous for its opera house with a unique sail-like design.",
+            "A coastal metropolis known for its beautiful beaches like Bondi and Manly."
+        ],
+        "fun_fact": [
+            "Sydney’s Harbour Bridge is nicknamed ‘The Coathanger’ because of its arch shape.",
+            "The Sydney Opera House took 14 years to build and was completed in 1973."
+        ],
+        "trivia": [
+            "Sydney is not the capital of Australia; Canberra is.",
+            "There are more than 100 beaches in and around Sydney."
+        ]
+    },
+    {
+        "city": "Dubai",
+        "country": "United Arab Emirates",
+        "clues": [
+            "This city is home to the tallest building in the world, standing at over 828 meters.",
+            "Known for its artificial islands shaped like a palm tree."
+        ],
+        "fun_fact": [
+            "Dubai has no natural rivers, yet it has some of the world’s most luxurious artificial marinas.",
+            "The police force in Dubai uses luxury cars such as Lamborghinis and Ferraris."
+        ],
+        "trivia": [
+            "Dubai’s Burj Khalifa is so tall that residents on the upper floors see the sunset later than those on the ground.",
+            "The city hosts an annual shopping festival with huge discounts and entertainment."
+        ]
+    },
+    {
+        "city": "Rio de Janeiro",
+        "country": "Brazil",
+        "clues": [
+            "This city has a giant Christ statue overlooking it from a mountain top.",
+            "Famous for its annual Carnival celebration, full of samba and colorful parades."
+        ],
+        "fun_fact": [
+            "Rio’s Christ the Redeemer statue is one of the New Seven Wonders of the World.",
+            "The city has over 23 beaches, including the world-famous Copacabana Beach."
+        ],
+        "trivia": [
+            "The Maracanã Stadium in Rio once held the largest crowd for a soccer match: 199,854 people in 1950.",
+            "Rio’s name means ‘River of January’ in Portuguese, but there is no actual river there."
+        ]
+    }
+]
